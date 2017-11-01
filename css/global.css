@@ -1,0 +1,40 @@
+body{
+    font-family: "Roboto Mono", monospace;
+}
+.row{
+    height: inherit;
+}
+}
+.s1{
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+.s1 img{
+    max-height: auto;
+    width: 50%;
+    margin-left:50%;
+    transform: translateX(-50%);
+}
+.s1 h1{
+    font-size: 3.5rem;
+}.s1 .hide-on-med-and-up h1{
+    font-size: 3rem;
+}
+.s1 h2{
+    font-size: 24px;
+}.s1 .hide-on-med-and-up h2{
+    font-size: 1.6rem;
+    
+}
+.s1 .col{
+    height: 100%;
+    /*width: 100%;*/
+    padding: 0;
+}
+
+.full-height{
+    width: 100%;
+}
+.full-width{
+    width: 100%;
+}
